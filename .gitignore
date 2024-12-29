@@ -1,0 +1,23 @@
+
+.DS_Store
+# Contracts Compiler files
+contracts/cache/
+contracts/out/
+contracts/.DS_Store
+
+# Contracts Broadcast files
+contracts/broadcast/
+contracts/broadcast/*/31337/
+contracts/broadcast/**/dry-run/
+
+# Docs
+contracts/docs/
+
+# Dotenv file
+contracts/.env
+
+frontend/node_modules/
+frontend/package-lock.json
+frontend/.env.local
+frontend/.DS_Store
+frontend/.next/
